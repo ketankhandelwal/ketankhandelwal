@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ketankhandelwal
-- 👀 I’m interested in Android Development & Artificial Intelligence
-- 🌱 I’m currently learning to be Master at Programming Skills
-- 💞️ I’m looking to collaborate on Artificial Intelligence Projects
+- 👀 I’m interested in Full Stack Web Development & Android Development
+- 🌱 I’m currently learning to be Master at Programming Skills & MERN
+- 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me IG- ketan.khandelwal.1
 
 <!---
